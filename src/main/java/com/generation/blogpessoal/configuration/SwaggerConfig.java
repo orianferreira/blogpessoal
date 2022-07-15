@@ -23,14 +23,14 @@ public class SwaggerConfig {
 					.description("Projeto Blog Pessoal - Generation Brasil")
 					.version("v0.0.1")
 				.license(new License()
-					.name("Rian De Almeida Ferreira")
+					.name("LinkedIn")
 					.url("https://linkedin.com/in/orianferreira/"))
 				.contact(new Contact()
-					.name("Rian De Almeida Ferreira")
+					.name("Rian De A. Ferreira")
 					.url("https://github.com/orianferreira")
 					.email("brianalmeida998@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
-					.description("Github")
+					.description("Repositório do Projeto")
 					.url("https://github.com/orianferreira/blogpessoal"));
 	}
 
